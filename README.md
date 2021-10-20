@@ -8,10 +8,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-ProHarshit-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
-<p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
+<p align="center">A beginners friendly, Automated phishing tool for Google.</p>
 
 ##
 
